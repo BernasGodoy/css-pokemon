@@ -1,0 +1,13 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    gap: 16px;
+    }
+
+.Charmander, .Squirtle, .Bulbasaur {
+    padding: 16px;
+    background-color: #f0f0f0;
+}

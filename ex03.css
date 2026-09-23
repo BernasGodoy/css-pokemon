@@ -1,0 +1,15 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+    align-content: flex-start;
+    gap: 16px;
+    height: 670px;
+}
+
+.Eevee, .Jigglypuff, .Vulpix {
+    padding: 16px;
+    background-color: #f0f0f0;
+}
